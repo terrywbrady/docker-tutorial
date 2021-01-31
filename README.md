@@ -1,4 +1,4 @@
-# Docker Tutorial for UC3 Developers
+# Docker Tutorial for UC3 Developers 
 This will consist of three 90 minute sessions covering various topics in the use of Docker.  
 
 Goals
